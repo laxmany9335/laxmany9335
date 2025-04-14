@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **open-source projects** and **exciting IT innovations**.  
 - 🤔 I’m looking for help with mastering **SQL** and improving my **full-stack development skills**.  
 - 💬 Ask me about **electronics engineering**, **DSA**, **OOP**, and **React.js projects**.  
-- 📫 How to reach me: [Email Me](mailto:laxmany9335@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/laxmany9335/).  
+- 📫 How to reach me: [Email Me](mailto:laxmany9335@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/laxman-yadav-9335s/).  
 - ⚡ Fun fact: I started as an electronics engineer and found my passion in software development, combining both to create innovative solutions.  
 
 Thanks for visiting! 😊  
